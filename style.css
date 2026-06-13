@@ -26,7 +26,7 @@ nav{
 }
 .encabezado3
 {
-    background-image: url(https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/e/ee/Banner_Mike_Wazowski.png/revision/latest?cb=20241107122851);
+    background-image: url(https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/e/ee/Banner_Mike_Wazowski.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -168,7 +168,7 @@ h1{
 }
 
 .mike2{
-    background-image: url("https://static.wikia.nocookie.net/disney/images/d/d5/Profile_-_Mike_Wazowski.jpg/revision/latest?cb=20220608010955");
+    background-image: url("https://static.wikia.nocookie.net/disney/images/d/d5/Profile_-_Mike_Wazowski.jpg");
 }
 
 .mike3{
